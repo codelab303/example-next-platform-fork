@@ -1,5 +1,5 @@
 import dynamic from "next/dynamic";
-import { Platform } from "../Platform";
+import { Platform } from "@/lib/Platform";
 
 const FooBar = () => {
   const Component = Platform.select({

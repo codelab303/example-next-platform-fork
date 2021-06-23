@@ -1,4 +1,4 @@
-import { switchPlatform } from '@/components/Platform'
+import { switchPlatform } from 'lib/Platform'
 import { FooBar } from '@/components/FooBar'
 import styles from '../styles/Home.module.css'
 
